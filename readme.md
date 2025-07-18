@@ -7,10 +7,10 @@ Esta simulación está basada en la información recopilada para el trabajo prá
 Para ejecutar esta simulación se requiere:
 
 - Tener Python instalado (https://www.python.org/downloads/)
-- Tener pip instalado: Esto se valida ejecutando
+- Tener pip instalado: Esto se valida ejecutando desde esta carpeta con la linea de comandos.
   - Para Windows: `py -m pip --version`, si no está se puede ejecutar `py -m ensurepip --default-pip`
   - Para Linux/MacOS: `python3 -m pip --version`, si no está se puede ejecutar `python3 -m ensurepip --default-pip`
-- Instalar los requerimientos: `pip install -r requirements.txt`.
+- Instalar los requerimientos: `pip install -r requirements.txt`
 - Ejecutar la simulación: `python -m simulacion.py`
 
 ## Como funciona la simulación
