@@ -55,9 +55,8 @@ def senal_error(presion_medida):
 def controlador(error):
     global caudal_carbon, error_integral
 
-    # Parámetros del controlador
     Kp = 1e-6
-    Ki = 1e-8  # Muy chico al principio
+    Ki = 1e-8 
 
     error_integral += error
 
