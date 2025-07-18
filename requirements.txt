@@ -1,0 +1,2 @@
+# Requerimientos para correr la simulación a través de Python:
+matplotlib
